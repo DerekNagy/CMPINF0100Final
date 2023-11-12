@@ -11,3 +11,4 @@ Team Members:
 Data sets we will be using: 
 * https://data.wprdc.org/dataset/allegheny-county-air-quality/resource/4ab1e23f-3262-4bd3-adbf-f72f0119108b (Allegheny County Air Quality Index) [Belongs to Derek Nagy]
 * https://data.wprdc.org/dataset/2020-census-redistricting-data-extracts/resource/fb2cb765-458c-4deb-8252-0a18d7ce9a78 (Allegheny County Census 2020) [Belongs to Both]
+* https://data.wprdc.org/dataset/bigburgh-social-service-listings/resource/45afaf15-2bdd-4fe2-856b-3ba39ba4c91e (BigBurgh Social Service Listings) [Belongs to Hayden Gilmer]
