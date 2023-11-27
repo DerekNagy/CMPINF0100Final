@@ -1,7 +1,7 @@
 # CMPINF0100 Best Neighborhood Final Project
 --------------------------------------------
 
-This repository is for the final project being completed by Derek Nagy and Hayden Gilmer in CMPINF0100. Hayden and I have separate notebooks with our names indicated on them. 
+This repository is for the final project being completed by Derek Nagy and Hayden Gilmer in CMPINF0100. Hayden and Derek have separate notebooks for each dataset.
 
 ### Team Name: Blue Devils (Final Project Group #51)
 
