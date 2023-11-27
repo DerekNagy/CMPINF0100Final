@@ -20,3 +20,5 @@ This repository is for the final project being completed by Derek Nagy and Hayde
 ### Context
 
 Unfortunately, Pittsburgh is kind of trash all around. Wherever you go, you'll always see something, whether it's funny, stupid, violent, or weird. We decided that, despite all this, we care about 3 main things - Arrest Data, Neighborhood Census, and Social Services. We want the least violence, the most people, and the most events. Why? We don't want crime, we want more friends, and we want to do things outside of work. Pretty simple.   
+
+Our main metric: People. What are people doing? Are they being arrested? Are they attending these social events? ARE THEY ALIVE???
